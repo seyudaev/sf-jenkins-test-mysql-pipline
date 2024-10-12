@@ -1,3 +1,1 @@
-node{
-    sh ./script.sh
-}
+sh "./script.sh"
